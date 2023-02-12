@@ -1,5 +1,5 @@
 import os,sys,time,requests,json,random
-from colorama import Fore,Back,init
+from import Fore,Back,init
 
 B = Fore.BLUE
 W = Fore.WHITE
